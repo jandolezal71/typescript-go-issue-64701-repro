@@ -1,0 +1,1 @@
+{"plugins":["typescript"],"categories":{"correctness":"off"},"rules":{"typescript/no-misused-promises":"error"}}
